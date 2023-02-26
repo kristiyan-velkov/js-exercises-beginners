@@ -2,7 +2,7 @@
 <img src="https://drive.google.com/uc?export=view&id=1CaHw3OczzvfSAnF2FeU9HH3EruqRDT0q" alt="Morewell logo" title="Morewell" align="right" />
 </a>
 
-# # JS Exercises for Beginners
+# JS Exercises for Beginners
 
 <img src="https://drive.google.com/uc?export=view&id=1ILVkQffU5CPzdvb0H3PjO2r3PH3eWkRE"  alt="replace-styles"/>
 
